@@ -2,15 +2,15 @@
 
 Kairen is a language with the goal to be intuitively understood by AI and people. The grammar is the important part, so the vocabulary is generated from English using simple rules that you can do in your head quickly. Here are they.
 
-## Vocabulary
+# Vocabulary
 
 The vocab is generated from English in this manner
 
-### Step 1: Write English phonetically
+## Step 1: Write English phonetically
 
 Write with vowels a, e, i, o, u. Remove double consonants.
 
-### Step 2a: If Word is Multisyllabic
+## Step 2a: If Word is Multisyllabic
 
 Switch syllable 1 with syllable 2, syllable 3 with syllable 4, syllable 5 with syllable 6, etc.
 
@@ -29,11 +29,11 @@ Switch syllable 1 with syllable 2, syllable 3 with syllable 4, syllable 5 with s
 - dictionary -> dikshaneri -> shandikrie
 - calculator -> kalkyuleitor -> kyukaltorlei
 
-### Step 2b: If Word is Unisyllabic
+## Step 2b: If Word is Unisyllabic
 
 Depends on the structure of the word
 
-#### CVC
+### CVC
 
 Switch the consonant in the beginning with the consonant in the end
 
@@ -55,7 +55,7 @@ works for diphthongs too, keep it in the same order.
 - name -> neim -> mein
 - coil -> koil -> loik
 
-#### CCVCC
+### CCVCC
 
 Keep the nasal consonants (r/l/m/n/ng) that are attached to the vowel in the same place, switch the other consonants instead and preserve their order.
 This rule actually encompasses all the other rules.
