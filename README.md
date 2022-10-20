@@ -37,8 +37,8 @@ Depends on the structure of the word
 
 Switch the consonant in the beginning with the consonant in the end
 
-2.1 
-**C1 V C2 ->** 
+2.1  
+**C1 V C2 ->**  
 **C2 V C1**
 
 - bat -> tab
@@ -48,7 +48,7 @@ Switch the consonant in the beginning with the consonant in the end
 
 works for diphthongs too, keep it in the same order.
 
-**C1 V1V2 C2 ->** 
+**C1 V1V2 C2 ->**  
 **C2 V1V2 C1**
 
 - bike -> baik -> kaib
@@ -60,8 +60,8 @@ works for diphthongs too, keep it in the same order.
 Keep the nasal consonants (r/l/m/n/ng) that are attached to the vowel in the same place, switch the other consonants instead and preserve their order.
 This rule actually encompasses all the other rules.
 
-2.2 
-**C1 C2 (r/l) V1V2 (r/l/n/m/ng) C3 C4 ->** 
+2.2  
+**C1 C2 (r/l) V1V2 (r/l/n/m/ng) C3 C4 ->**  
 **C3 C4 (r/l) V1V2 (r/l/n/m/ng) C1 C2** 
 
 - street -> strit -> st ri t -> t ri st -> trist
