@@ -89,3 +89,55 @@ When you have n/m after the vowel, and the translated word has n + b or m + t/k,
 - band -> b an d -> d an b -> danb -> damb
 - punk -> pank -> p an k -> k an p -> kanp -> kamp
 - 
+
+## Set words
+- I = ki
+- Eye = ao
+- You = vu
+- too = ve (ut = to, "ve" from "very")
+- a/an = nu 
+
+### Set words for words that normally translate into themselves
+Ex: clock -> klock, so we need a set word to make it different from the base English word
+- clock = tokei 
+- since = ijo
+
+# Grammar
+
+### Articles (both indefinite and definite) are optional.
+
+- The horse is on top of the ground.
+- adh sorh zi na pat va adh draung.
+- sorhy zi na pat va draung.
+
+### "to" is optional if the verb only has one argument ("go to" -> "go")
+
+- They will drive to their friend's house.
+- eidh vraid a ut erth dremf o sauh.
+- eidh vraid a erth dremf o sauh.
+
+### e = (previous verb is) past tense (-ed)
+
+- I went to the store.
+- I go (-ed) to the store
+- ki og e ut orst.
+- ki og e orst.
+
+
+
+### a = (previous verb is) future tense
+
+- You will find it difficult.
+- You find (future) it difficult.
+- Vu daimf a ti fidikalt.
+
+### i = (previous verb is) present continuous tense (-ing)
+
+- She is eating a sandwich.
+- She is eat -ing a sandwich.
+- Ish zi ti i na chiwdans
+
+
+u = (previous word is) plural
+o = 's
+ka = sentence final particle for yes/no question
