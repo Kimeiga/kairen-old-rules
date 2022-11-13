@@ -98,7 +98,7 @@ When you have n/m after the vowel, and the translated word has n + b or m + t/k,
 - a/an = nu 
 
 ### Set words for words that normally translate into themselves
-Ex: clock -> klock, so we need a set word to make it different from the base English word
+Ex: clock -> klak, so we need a set word to make it different from the base English word
 - clock = tokei 
 - since = ijo
 
