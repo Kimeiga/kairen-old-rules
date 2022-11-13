@@ -141,3 +141,34 @@ Ex: clock -> klak, so we need a set word to make it different from the base Engl
 u = (previous word is) plural
 o = 's
 ka = sentence final particle for yes/no question
+
+# Alphabet
+
+Technically optional but allows the language to be more terse (and unique). 
+
+q = th
+c = ch
+sh = sh
+j = j
+zh = zh
+x = ng
+
+ring -> rix -> xir
+that -> qat -> taq
+chair -> cer -> rec
+etc
+
+# Example Sentences
+
+I hate this company so much; oh my god
+ki teih siq pakamni os cam; ho ki o dog
+
+Why are all of my friends such boring people?
+Aiw ra la va ki o dremf u cas rixbo palpi?
+Aiw ki o dremf u cas rixbo palpi? (grammar)
+
+Where can you go to live your life to the fullest?
+Rew vu nak og ut vil vu o fail ut lufste? (margram)
+
+I want to die but it wouldn't be worth it.
+Ki tanwu ut aid tab ti duw tan ib qerwu ti.
